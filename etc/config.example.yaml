@@ -1,0 +1,12 @@
+Mysql:
+  Host: xxx
+  Port: 3306
+  User: xxx
+  Pass: xxx
+  DbName: xxx
+Redis:
+  Addr: xxx
+  Pass: "xxx"
+  DB: 11
+JWT:
+  Secret: "xxxx"
